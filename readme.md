@@ -1,3 +1,8 @@
+## 前提
+
+* node.js インストール済み
+* typescript をグローバルでインストール済み
+
 ## 手順
 
 ### 1. package.jsonの用意
